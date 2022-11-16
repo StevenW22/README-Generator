@@ -39,7 +39,7 @@ ${data.testing}
 ${data.license}
 ## Contact Info
 - GitHub: [${data.github}](https://github.com/${data.github})
-- Email: [${data.email}](fakie:user@ollie.com)
+- Email: [${data.email}](steven.williams2272@yahoo.com)
 
 
 `;
